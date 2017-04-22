@@ -1,0 +1,133 @@
+{
+	"name": "cereals",
+	"children": [
+		{
+			"name": "American Home Food Products",
+			"children": [
+				
+				{
+					"name": "Maypo","size":100
+					
+				}
+			]
+		},
+		{
+			"name": "General Mills",
+			"children": [
+				
+					
+						{"name": "Apple_Cinnamon_Cheerios", "size":110 },
+						{"name": "BasiC_4", "size": 130},
+						{"name": "Cheerios", "size": 110},
+						{"name": "Cinnamon_Toast_Crunch", "size":120},
+						{"name": "Clusters", "size": 110},
+						{"name": "CoCoa_Puffs", "size": 110},
+						{"name": "Count_ChoCula", "size": 110},
+						{"name": "Crispy_Wheat_&_Raisins", "size": 100},
+						{"name": "Golden_Grahams", "size":110},
+						{"name": "Honey_Nut_Cheereos", "size":110},
+						{"name": "Kix", "size":110},
+						{"name": "LuCky_Charms", "size":110},
+						{"name": "Multi-Green_Cheereos", "size":100},
+						{"name": "Oatmeal_Raisin_Crisp", "size":130},
+						{"name": "Raisin_Nut_Bran", "size":100},
+						{"name": "Total_Corn_Flakes", "size":110},
+						{"name": "Total_Raisin_Bran", "size":140},
+						{"name": "Toatal_Whole_Grain", "size":100},
+						{"name": "Triples", "size":110},
+						{"name": "Trix", "size":110},
+						{"name": "Wheaties", "size":100},
+						{"name": "Wheaties_Honey_Gold", "size":110}
+			
+						
+					
+				
+			]
+		},
+		{
+			"name": "Kellogs",
+			"children": [
+				{"name": "All-Bran", "size": 70},
+				{"name": "All-Bran_with_Extra_Fiber", "size": 50},
+				{"name": "Apple_JaCks", "size": 110},
+				{"name": "Corn_Flakes", "size": 100},
+				{"name": "Corn_Pops", "size":110},
+				{"name": "CraCklin'_Oat_Bran", "size":110},
+				{"name": "Crispix", "size":110},
+				{"name": "Froot_Loops", "size":110},
+				{"name": "Frosted_Flakes", "size":110},
+				{"name": "Frosted_Mini_Wheats", "size":100},
+				{"name": "Fruitful_Bran", "size":120},
+				{"name": "Just_Right_CrunChy_Nuggets", "size":110},
+				{"name": "Just_Right_Fruit_&_Nut", "size":140},
+				{"name": "Mueslix_Crispy_Blend", "size":160},
+				{"name": "Nut&Honey_CruCh", "size":120},
+				{"name": "Nutri-Grain_Almond-Raisin", "size":140},
+				{"name": "Nutri-grain_Wheat", "size":90},
+				{"name": "ProduCt_19", "size":100},
+				{"name": "Raisin_Bran", "size":120},
+				{"name": "Raisin_Squares", "size":90},
+				{"name": "RiCe_Krispies", "size":110},
+				{"name": "SmaCks", "size":110},
+				{"name": "SpeCial_K", "size":110}
+
+
+			]
+		},
+		{
+			"name": "Nabisco",
+			"children": [
+				{"name": "100%_Bran", "size": 70},
+				{"name": "Cream_of_Wheat_(QuiCk)", "size": 100},
+				{"name": "Shredded_Wheat", "size": 80},
+				{"name": "Shredded_Wheat_'n'Bran", "size": 90},
+				{"name": "Shredded_Wheat_spoon_size", "size": 90},
+				{"name": "Strawberry_Fruit_Wheats", "size":90}
+				
+			]
+		},
+		{
+			"name": "Post",
+			"children": [
+				{"name": "Bran_Flakes", "size": 90},
+				{"name": "Fruit_&_Fibre_Dates_Walnuts_and_Oats", "size": 120},
+				{"name": "Fruity_Pebbles", "size": 110},
+				{"name": "Golden_Crisp", "size": 100},
+				{"name": "Grape_Nuts_Flakes", "size": 100},
+				{"name": "Grape-Nuts", "size":100},
+				{"name": "Great_Grains_PeCan", "size":120},
+				{"name": "Honey-Comb", "size":110},
+				{"name": "Post_Nat._Raisin_Bran", "size":120}
+				
+			]
+		},
+		{
+			"name": "Quaker Oats",
+			"children": [
+				{"name": "100%_Natural_Bran", "size": 120},
+				{"name": "Cap'n'Crunch", "size": 120},
+				{"name": "Honey_Graham_Ohs", "size": 120},
+				{"name": "Life", "size": 100},
+				{"name": "Puffed_RiCe", "size": 50},
+				{"name": "Puffed_Wheat", "size":50},
+				{"name": "Quaker_Oat_Sqaures", "size":100},
+				{"name": "Quaker_Oatmeal", "size":100}
+				
+			]
+		},
+		{
+			"name": "Ralston Purina",
+			"children": [
+				{"name": "Almond_Delight", "size": 110},
+				{"name": "Bran_Chex", "size": 90},
+				{"name": "Corn_Chex", "size": 110},
+				{"name": "Double_Chex", "size": 100},
+				{"name": "Muesli_Raisins,_Dates,_&_Almonds", "size": 150},
+				{"name": "Muesli_Raisins,_PeaChes,_&_PeCans", "size":150},
+				{"name": "RiCe_Chex", "size":110},
+				{"name": "Wheat_Chex", "size":100}
+				
+			]
+		}
+	]
+ }
